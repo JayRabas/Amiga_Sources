@@ -37,7 +37,7 @@ Different Amiga applications, demos and games that have source code available.
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
 [iTidy](https://github.com/Kwezza/iTidy) | An automated Workbench icon layout and window tidy tool for AmigaOS 3.x | [Kerry Thompson](https://github.com/Kwezza) |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
-[Lide.device](https://github.com/LIV2/lide.device) | An open source IDE device driver for the Amiga | [Matt Harlum ](https://github.com/LIV2) |
+[Lide.device](https://github.com/LIV2/lide.device) | An open source IDE device driver for the Amiga | [Matt Harlum](https://github.com/LIV2) |
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
 [MultiRename](https://github.com/rosneru/MultiRename) |	MultiRename tool for AmigaOS 3.2.3+ | [Uwe Rosner](https://github.com/rosneru) |
