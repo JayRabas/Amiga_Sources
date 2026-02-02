@@ -13,7 +13,8 @@ Different Amiga applications, demos and games that have source code available.
 | Project | Description | Author |
 |---------|-------------|--------|
 [ADiffView](https://github.com/rosneru/ADiffView) | ADiffView is a diff tool for AmigaOS 3.0+ | [Uwe Rosner](https://github.com/rosneru) |
-[AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
+[AmiAuthenticator](https://github.com/dmcoles/AmiAuthenticator) | AmiAuthenticator is a 2FA code generator for the Amiga  | [phantasm4489](https://github.com/dmcoles) |
+[AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | [phantasm4489](https://github.com/dmcoles) |
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
@@ -28,17 +29,21 @@ Different Amiga applications, demos and games that have source code available.
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
 [FlexCat](https://github.com/adtools/flexcat) | Create Locale catalogues | Jochen Wiedmann, Marcin Orlowski |
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al |
+[FxBox](https://github.com/marc365/FxBox) | FxBox realtime multi loop processor editor | [marc365](https://github.com/marc365) |
 [gadf](https://github.com/sphair/gadf) | Create bootable Amiga ADF disk images from executables | [sphair](https://github.com/sphair) |
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
+[GoSnap](https://github.com/bitplanpl/GoSnap) | GoSnap is a program that brings to AmigaOS a window snapping feature  | [bitplanpl](https://github.com/bitplanpl) |
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
 [iTidy](https://github.com/Kwezza/iTidy) | An automated Workbench icon layout and window tidy tool for AmigaOS 3.x | [Kerry Thompson](https://github.com/Kwezza) |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
+[Lide.device](https://github.com/LIV2/lide.device) | An open source IDE device driver for the Amiga | [Matt Harlum ](https://github.com/LIV2) |
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
 [MultiRename](https://github.com/rosneru/MultiRename) |	MultiRename tool for AmigaOS 3.2.3+ | [Uwe Rosner](https://github.com/rosneru) |
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[Q-Device](https://github.com/oddsocks1024/qDevice) | Q-Device! is a graphical tool for querying and controlling IDE and SCSI devices  | [oddsocks1024](https://github.com/oddsocks1024) |
 [rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
