@@ -158,7 +158,6 @@ Different Amiga applications, demos and games that have source code available.
 [telegram-amiga](https://github.com/kaffeine1/telegram-amiga) | Telegram client for Amiga-family systems | [kaffeine1](https://github.com/kaffeine1) |
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
-[TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TwinVNC](https://github.com/JohnG4489/amiga-twinvnc) |	Client VNC pour AmigaOS / MorphOS | [JohnG4489](https://github.com/JohnG4489) |
 [Vie III](https://codeberg.org/tygre/vieiii) | GUI for the Game of Life | [Tygre](https://codeberg.org/tygre)
 [whdfetch ](https://github.com/Kwezza/WHDFetch) | Retroplay WHDLoad Downloader for AmigaOS | [Kwezza](https://github.com/Kwezza)
