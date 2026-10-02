@@ -83,47 +83,82 @@ Different Amiga applications, demos and games that have source code available.
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[Alien Breed 3D RTG](https://github.com/mheyer32/ab3d-rtg) | Alien Breed 3D | Andy Clitheroe/John Girvin |
-[Alien Breed 3D II](https://github.com/mheyer32/alienbreed3d2) | Alien Breed 3D II sources | Andy Clitheroe |
 [AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
+[Alex-Kidd-Amiga-Port](https://github.com/Matrixite/Alex-Kidd-Amiga-Port) | DESCRIPTION | [Matrixite](https://github.com/Matrixite) |
+[Alien Breed 3D II](https://github.com/mheyer32/alienbreed3d2) | Alien Breed 3D II sources | Andy Clitheroe |
+[Alien Breed 3D RTG](https://github.com/mheyer32/ab3d-rtg) | Alien Breed 3D | Andy Clitheroe/John Girvin |
+[amacs](https://github.com/leopold-t/amacs) | DESCRIPTION | [leopold-t](https://github.com/leopold-t) |
+[Amiga-68K-BobrHopper](https://github.com/angree/Amiga-68K-BobrHopper) | DESCRIPTION | [angree](https://github.com/angree) |
+[Amiga-68K-ReMoM](https://github.com/angree/Amiga-68K-ReMoM) | DESCRIPTION | [angree](https://github.com/angree) |
+[amiga-stunt-car-racer-060-performance-patch](https://github.com/timoheimonen/amiga-stunt-car-racer-060-performance-patch) | DESCRIPTION | [timoheimonen](https://github.com/timoheimonen) |
+[amigagames](https://github.com/mpoelstra/amigagames) | DESCRIPTION | [mpoelstra](https://github.com/mpoelstra) |
+[Amiga_WernerAGA](https://github.com/patman77/Amiga_WernerAGA) | DESCRIPTION | [patman77](https://github.com/patman77) |
 [AmiQuake GCC Port](https://github.com/terriblefire/amiquake) | GCC/m68k port of AmiQuake |[TerrribleFire](https://github.com/terriblefire) |
+[AmiXcom](https://github.com/angree/AmiXcom) | DESCRIPTION | [angree](https://github.com/angree) |
 [Bad Dudes vs Dragonninja](https://github.com/jotd666/baddudes) | Port of Bad Dudes vs Dragonninja An amiga AGA | [jotd666](https://github.com/jotd666) |
 [Bagman](https://github.com/jotd666/bagman) | Bagman remake for Amiga | [jotd666](https://github.com/jotd666) |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
+[bosconian](https://github.com/jotd666/bosconian) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
 [Breathless](https://github.com/mheyer32/Breathless) | Breathless | Fields of Vision |
 [BurgerTime](https://github.com/jotd666/burger_time) | Amiga port of Burger Time arcade version | [jotd666](https://github.com/jotd666) |
+[CapcomZ80-Amiga](https://github.com/CrownParkComputing/CapcomZ80-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [Commando](https://github.com/jotd666/commando) | Commando Arcade port of Commando for Amiga AGA | [jotd666](https://github.com/jotd666) |
+[commodore-uno](https://github.com/jhonnaker1/commodore-uno) | DESCRIPTION | [jhonnaker1](https://github.com/jhonnaker1) |
 [digdug2](https://github.com/jotd666/digdug2) | Amiga port of Dig Dug 2 Arcade | [jotd666](https://github.com/jotd666) |
 [Donkey Kong](https://github.com/jotd666/donkey_kong) | Amiga port of Donkey Kong arcade version | [jotd666](https://github.com/jotd666) |
+[double_dragon](https://github.com/jotd666/double_dragon) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
 [Elevator Action](https://github.com/jotd666/elevator_action) | Remake of Elevator Action for Amiga | [jotd666](https://github.com/jotd666) |
 [Faery Tale Adventure](https://github.com/viridia/faery-tale-amiga) | Faery Tale Adventure | Talin |
+[FitzQuake](https://github.com/NovaCoderX/FitzQuake) | DESCRIPTION | [NovaCoderX](https://github.com/NovaCoderX) |
 [Galaga](https://github.com/jotd666/galaga) | Amiga port of Galaga arcade version | [jotd666](https://github.com/jotd666) |
 [Galaxian](https://github.com/jotd666/galaxian500) | Amiga port of Galaxian arcade version | [jotd666](https://github.com/jotd666) |
 [ghosts_and_goblins](https://github.com/jotd666/ghosts_and_goblins) | Amiga port of Ghosts n Goblins Arcade | [jotd666](https://github.com/jotd666) |
-[goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
-[Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Gloom Reforged](https://github.com/Andiweli/Gloom-Reforged) | GLOOM 'Reforged' for AmigaOS AGA/ECS/P96 | [Andreas Stürmer](https://andiweli.github.io/) |
+[Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
+[goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gravitar](https://github.com/jotd666/gravitar) | Amiga port of Gravitar arcade version | [jotd666](https://github.com/jotd666) |
 [Gyruss](https://github.com/jotd666/gyruss) | Port of Gyruss for Amiga | [jotd666](https://github.com/jotd666) |
-[High Octane](https://github.com/titmouse001/Amiga-Archive-For-My-Old-Stuff) | High-Octane driving game | [titmouse001](https://github.com/titmouse001) |
+[harrierattackreloaded_amiga](https://github.com/tonnyrh/harrierattackreloaded_amiga) | DESCRIPTION | [tonnyrh](https://github.com/tonnyrh) |
 [High Octane II](https://github.com/titmouse001/Amiga-HighOctane2) | High-Octane II  driving game | [titmouse001](https://github.com/titmouse001) |
+[High Octane](https://github.com/titmouse001/Amiga-Archive-For-My-Old-Stuff) | High-Octane driving game | [titmouse001](https://github.com/titmouse001) |
+[HomeComputerPorts-Amiga](https://github.com/CrownParkComputing/HomeComputerPorts-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [HyperSports](https://github.com/jotd666/hyper_sports) | Remake of Hyper Sports / Hyper Olympic'84 for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
+[IremM72-Amiga](https://github.com/CrownParkComputing/IremM72-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
+[JalecoMegaSys1-Amiga](https://github.com/CrownParkComputing/JalecoMegaSys1-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [Karate Champ](https://github.com/jotd666/karatechamp500) | 1:1  remake of Karate Champ VS on the Amiga 500 | [jotd666](https://github.com/jotd666) |
+[keen4-amiga](https://github.com/rootrootde/keen4-amiga) | DESCRIPTION | [rootrootde](https://github.com/rootrootde) |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
+[ko2-gfx-restyle-v1-adf-amiga](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga) | DESCRIPTION | [KONEY](https://github.com/KONEY) |
+[KonamiGreenBeret-Amiga](https://github.com/CrownParkComputing/KonamiGreenBeret-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [Lock'n'Chase](https://github.com/jotd666/lock_and_chase) | Port of Lock'n'Chase (data east) for Amiga | [jotd666](https://github.com/jotd666) |
 [Menace](https://github.com/davepoo/Menace-Amiga-Format) | The 1988 Amiga game 'Menace' | [Menace](https://github.com/davepoo) |
 [Moon Patrol](https://github.com/jotd666/mpatrol) | Amiga port of Moon Patrol arcade version | [jotd666](https://github.com/jotd666) |
 [MsPacman 500](https://github.com/jotd666/mspacman500) |  1:1 port of MsPacman arcade version on Amiga 500  | [jotd666](https://github.com/jotd666) |
+[Namco6809-Amiga](https://github.com/CrownParkComputing/Namco6809-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
+[NamcoGaplus-Amiga](https://github.com/CrownParkComputing/NamcoGaplus-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
+[openfodder](https://github.com/OpenFodder/openfodder) | DESCRIPTION | [OpenFodder](https://github.com/OpenFodder) |
+[openttd_amiga_68k](https://github.com/angree/openttd_amiga_68k) | DESCRIPTION | [angree](https://github.com/angree) |
 [Pacman](https://github.com/jotd666/pacman500) |  1:1 port of Pacman arcade version on Amiga 500 | [jotd666](https://github.com/jotd666) |
 [Pengo](https://github.com/jotd666/pengo500) | Amiga port of Pengo arcade version | [jotd666](https://github.com/jotd666) |
 [Phoenix](https://github.com/jotd666/phoenix) | Remake of Phoenix for ECS/AGA Amiga | [jotd666](https://github.com/jotd666) |
 [Pooyan](https://github.com/jotd666/pooyan) | Remake of Pooyan for Amiga | [jotd666](https://github.com/jotd666) |
+[PowerDrift-Amiga](https://github.com/CrownParkComputing/PowerDrift-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
+[rachel-commodore-amiga](https://github.com/rachel-multiverse/rachel-commodore-amiga) | DESCRIPTION | [rachel-multiverse](https://github.com/rachel-multiverse) |
+[rally-x](https://github.com/jotd666/rally-x) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
+[raptor-amiga-port](https://github.com/RaybeezPL/raptor-amiga-port) | DESCRIPTION | [RaybeezPL](https://github.com/RaybeezPL) |
+[rolling_thunder](https://github.com/jotd666/rolling_thunder) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
 [Rygar AGA](https://gitlab.com/menelkir/amiga/-/tree/main/rygar_aga_170?ref_type=heads) | Rygar port for Amiga AGA | [menelkir](https://gitlab.com/menelkir) |
 [Scramble 500](https://github.com/jotd666/scramble500) | 1:1 port of Scramble arcade on Amiga 500 | [jotd666](https://github.com/jotd666) |
+[SegaSystem16-Amiga](https://github.com/CrownParkComputing/SegaSystem16-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
+[street_fighter_1_amiga](https://github.com/msmalik681/street_fighter_1_amiga) | DESCRIPTION | [msmalik681](https://github.com/msmalik681) |
 [Stunt Car Racer (Framerate Unleashed)](https://github.com/Vesuri/stuntcarracer) | Enhanced version of Stunt Car Racer with 50/60fps | [Vesuri](https://github.com/Vesuri) |
 [Super Bagman](https://github.com/jotd666/sbagman) | Super Bagman remake for Amiga | [jotd666](https://github.com/jotd666) |
+[TaitoZ-Amiga](https://github.com/CrownParkComputing/TaitoZ-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [Tetris](https://github.com/jotd666/tetris) | Port of Atari Arcade Tetris for Amiga 1200 | [jotd666](https://github.com/jotd666) |
+[tiger_heli](https://github.com/jotd666/tiger_heli) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
+[ToaplanTigerHeli-Amiga](https://github.com/CrownParkComputing/ToaplanTigerHeli-Amiga) | DESCRIPTION | [CrownParkComputing](https://github.com/CrownParkComputing) |
 [Track'N'Field](https://github.com/jotd666/track_and_field) | Amiga port of 1983 Konami game | [jotd666](https://github.com/jotd666) |
 [US Championship V'ball](https://github.com/jotd666/us_champ_vball) | Remake of US Championship V'ball for Amiga (AGA & ECS) | [jotd666](https://github.com/jotd666) |
+[vulgus](https://github.com/jotd666/vulgus) | DESCRIPTION | [jotd666](https://github.com/jotd666) |
 [Xevious](https://github.com/jotd666/xevious) | Amiga port of Xevious arcade version | [jotd666](https://github.com/jotd666) |
