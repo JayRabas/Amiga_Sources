@@ -1,3 +1,98 @@
+Drivers
+[BlueSCSIUI](https://github.com/AidanHolmes/BlueSCSIUI) |  DESCRIPTION | [AidanHolmes](https://github.com/AidanHolmes) | 
+[MintPRINT](https://github.com/boingball/MintPRINT) |  DESCRIPTION | [boingball](https://github.com/boingball) | 
+[MintSCAN](https://github.com/boingball/MintSCAN) |  DESCRIPTION | [boingball](https://github.com/boingball) | 
+[p96cts](https://github.com/codewiz/p96cts) |  DESCRIPTION | [codewiz](https://github.com/codewiz) | 
+[exfat-aos3](https://github.com/creep-ltx/exfat-aos3) |  DESCRIPTION | [creep-ltx](https://github.com/creep-ltx) | 
+[a314bsd](https://github.com/lainejones/a314bsd) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[a314RTG](https://github.com/lainejones/a314RTG) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[AmiSSL-Tunnel](https://github.com/lainejones/AmiSSL-Tunnel) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[Roadster](https://github.com/lainejones/Roadster) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[p96drivers](https://github.com/mheyer32/p96drivers) |  DESCRIPTION | [mheyer32](https://github.com/mheyer32) | 
+[AmiTCP_NG](https://github.com/MW0MWZ/AmiTCP_NG) |  DESCRIPTION | [MW0MWZ](https://github.com/MW0MWZ) | 
+[ODFileSystem](https://github.com/reinauer/ODFileSystem) |  DESCRIPTION | [reinauer](https://github.com/reinauer) | 
+[emu68-genet-driver](https://github.com/rondoval/emu68-genet-driver) |  DESCRIPTION | [rondoval](https://github.com/rondoval) | 
+[emu68-gic400-library](https://github.com/rondoval/emu68-gic400-library) |  DESCRIPTION | [rondoval](https://github.com/rondoval) | 
+[emu68-nvme-driver](https://github.com/rondoval/emu68-nvme-driver) |  DESCRIPTION | [rondoval](https://github.com/rondoval) | 
+[emu68-pcie-library](https://github.com/rondoval/emu68-pcie-library) |  DESCRIPTION | [rondoval](https://github.com/rondoval) | 
+[emu68-xhci-driver](https://github.com/rondoval/emu68-xhci-driver) |  DESCRIPTION | [rondoval](https://github.com/rondoval) | 
+[PicoWyfyGUI](https://github.com/santiac89/PicoWyfyGUI) |  DESCRIPTION | [santiac89](https://github.com/santiac89) | 
+[AmiNetXDuo](https://github.com/tinic/AmiNetXDuo) |  DESCRIPTION | [tinic](https://github.com/tinic) | 
+[tolonwifi](https://github.com/tolon/tolonwifi) |  DESCRIPTION | [tolon](https://github.com/tolon) | 
+[scsi2pi](https://github.com/uweseimet/scsi2pi) |  DESCRIPTION | [uweseimet](https://github.com/uweseimet) | 
+[XACP-V1](https://github.com/Xanxi-Amiga/XACP-V1) |  DESCRIPTION | [Xanxi-Amiga](https://github.com/Xanxi-Amiga) | 
+
+Libs
+[AmiATP](https://github.com/amigazen/AmiATP) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[AmiHTTP](https://github.com/amigazen/AmiHTTP) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[AmiTLS](https://github.com/amigazen/AmiTLS) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[cclib.library](https://github.com/amigazen/cclib.library) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[LhASsA](https://github.com/amigazen/LhASsA) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[amiga-game-ports](https://github.com/bdgscotland/amiga-game-ports) |  DESCRIPTION | [bdgscotland](https://github.com/bdgscotland) | 
+[libSDL2-amigaos3](https://github.com/bdgscotland/libSDL2-amigaos3) |  DESCRIPTION | [bdgscotland](https://github.com/bdgscotland) | 
+[SDL2.Library-Amiga-m68K](https://github.com/JennaScvl/SDL2.Library-Amiga-m68K) |  DESCRIPTION | [JennaScvl](https://github.com/JennaScvl) | 
+[amissl](https://github.com/jens-maus/amissl) |  DESCRIPTION | [jens-maus](https://github.com/jens-maus) | 
+[AmiSSL-Tunnel](https://github.com/lainejones/AmiSSL-Tunnel) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[libtfmxaudiodecoder](https://github.com/mschwendt/libtfmxaudiodecoder) |  DESCRIPTION | [mschwendt](https://github.com/mschwendt) | 
+[Nova-Mesa](https://github.com/NovaCoderX/Nova-Mesa) |  DESCRIPTION | [NovaCoderX](https://github.com/NovaCoderX) | 
+[NovaMesa](https://github.com/NovaCoderX/NovaMesa) |  DESCRIPTION | [NovaCoderX](https://github.com/NovaCoderX) | 
+[SDL2-NovaMesa](https://github.com/NovaCoderX/SDL2-NovaMesa) |  DESCRIPTION | [NovaCoderX](https://github.com/NovaCoderX) | 
+[AmiAPI](https://github.com/pgousdal/AmiAPI) |  DESCRIPTION | [pgousdal](https://github.com/pgousdal) | 
+[amigaos-ptable](https://github.com/pulchart/amigaos-ptable) |  DESCRIPTION | [pulchart](https://github.com/pulchart) | 
+[zip_lib](https://github.com/salass00/zip_lib) |  DESCRIPTION | [salass00](https://github.com/salass00) | 
+[narrator.wyoming](https://github.com/sidick/narrator.wyoming) |  DESCRIPTION | [sidick](https://github.com/sidick) | 
+
+Software
+[AmiFox](https://github.com/alb42/AmiFox) |  DESCRIPTION | [alb42](https://github.com/alb42) | 
+[AmiTranslate](https://github.com/alb42/AmiTranslate) |  DESCRIPTION | [alb42](https://github.com/alb42) | 
+[AmiTube](https://github.com/alb42/AmiTube) |  DESCRIPTION | [alb42](https://github.com/alb42) | 
+[amiautoupdater](https://sourceforge.net/p/amiautoupdater) |  DESCRIPTION | [p](https://sourceforge.net/p) | 
+[ToolManager](https://github.com/amigazen/ToolManager) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[Voyager](https://github.com/amigazen/Voyager) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[AmiGmail](https://github.com/Andiweli/AmiGmail) |  DESCRIPTION | [Andiweli](https://github.com/Andiweli) | 
+[AmiMAIL](https://github.com/Andiweli/AmiMAIL) |  DESCRIPTION | [Andiweli](https://github.com/Andiweli) | 
+[OS-MIGA-80](https://github.com/astrofra/OS-MIGA-80) |  DESCRIPTION | [astrofra](https://github.com/astrofra) | 
+[Transfusion](https://github.com/Bedroomcoders/Transfusion) |  DESCRIPTION | [Bedroomcoders](https://github.com/Bedroomcoders) | 
+[MintSCAN](https://github.com/boingball/MintSCAN) |  DESCRIPTION | [boingball](https://github.com/boingball) | 
+[MintVID](https://github.com/boingball/MintVID) |  DESCRIPTION | [boingball](https://github.com/boingball) | 
+[AmigaTools](https://github.com/creep-ltx/AmigaTools) |  DESCRIPTION | [creep-ltx](https://github.com/creep-ltx) | 
+[AmiNFSv3](https://github.com/creep-ltx/AmiNFSv3) |  DESCRIPTION | [creep-ltx](https://github.com/creep-ltx) | 
+[AmiMenu](https://github.com/cyberman/AmiMenu) |  DESCRIPTION | [cyberman](https://github.com/cyberman) | 
+[3DToolbox-Amiga](https://github.com/dcdlsd/3DToolbox-Amiga) |  DESCRIPTION | [dcdlsd](https://github.com/dcdlsd) | 
+[PrintTools-Amiga](https://github.com/dcdlsd/PrintTools-Amiga) |  DESCRIPTION | [dcdlsd](https://github.com/dcdlsd) | 
+[AmiExpress](https://github.com/dmcoles/AmiExpress) |  DESCRIPTION | [dmcoles](https://github.com/dmcoles) | 
+[amigatools](https://github.com/ElyanLabsAI/amigatools) |  DESCRIPTION | [ElyanLabsAI](https://github.com/ElyanLabsAI) | 
+[Rashumon](https://github.com/haephrati/Rashumon) |  DESCRIPTION | [haephrati](https://github.com/haephrati) | 
+[telegram-amiga](https://github.com/kaffeine1/telegram-amiga) |  DESCRIPTION | [kaffeine1](https://github.com/kaffeine1) | 
+[HippoPlayer](https://github.com/koobo/HippoPlayer) |  DESCRIPTION | [koobo](https://github.com/koobo) | 
+[NetHarness](https://github.com/lainejones/NetHarness) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[NoClick](https://github.com/lainejones/NoClick) |  DESCRIPTION | [lainejones](https://github.com/lainejones) | 
+[a68k-shell](https://github.com/manuparra/a68k-shell) |  DESCRIPTION | [manuparra](https://github.com/manuparra) | 
+[FxBox](https://github.com/marc365/FxBox) |  DESCRIPTION | [marc365](https://github.com/marc365) | 
+[msInternetStatus](https://github.com/mateusz83/msInternetStatus) |  DESCRIPTION | [mateusz83](https://github.com/mateusz83) | 
+[bam](https://github.com/mrolappe/bam) |  DESCRIPTION | [mrolappe](https://github.com/mrolappe) | 
+[AmiWeather](https://github.com/pgousdal/AmiWeather) |  DESCRIPTION | [pgousdal](https://github.com/pgousdal) | 
+[AmiGuard](https://github.com/Ploos-AS/AmiGuard) |  DESCRIPTION | [Ploos-AS](https://github.com/Ploos-AS) | 
+[AmiInternals](https://github.com/Ploos-AS/AmiInternals) |  DESCRIPTION | [Ploos-AS](https://github.com/Ploos-AS) | 
+[AmiNTP](https://github.com/Ploos-AS/AmiNTP) |  DESCRIPTION | [Ploos-AS](https://github.com/Ploos-AS) | 
+[AmiHomeassist](https://github.com/radi7777/AmiHomeassist) |  DESCRIPTION | [radi7777](https://github.com/radi7777) | 
+[ApolloExplorer](https://github.com/ronybeck/ApolloExplorer) |  DESCRIPTION | [ronybeck](https://github.com/ronybeck) | 
+[crashmail](https://github.com/skbn/crashmail) |  DESCRIPTION | [skbn](https://github.com/skbn) | 
+[amiexpress-web](https://github.com/spotUP/amiexpress-web) |  DESCRIPTION | [spotUP](https://github.com/spotUP) | 
+[amiga-pkg](https://github.com/thomas-luebker/amiga-pkg) |  DESCRIPTION | [thomas-luebker](https://github.com/thomas-luebker) | 
+[amimcp](https://github.com/thomas-luebker/amimcp) |  DESCRIPTION | [thomas-luebker](https://github.com/thomas-luebker) | 
+[amipkg](https://github.com/thomas-luebker/amipkg) |  DESCRIPTION | [thomas-luebker](https://github.com/thomas-luebker) | 
+[amisync](https://github.com/thomasseverinsen/amisync) |  DESCRIPTION | [thomasseverinsen](https://github.com/thomasseverinsen) | 
+[WBTrash](https://github.com/amigazen/WBTrash) |  DESCRIPTION | [amigazen](https://github.com/amigazen) | 
+[RGBLaunch](https://github.com/ZXDunny/RGBLaunch) |  DESCRIPTION | [ZXDunny](https://github.com/ZXDunny) |
+
+
+
+
+
+
+
+
 # Software
 
 Different Amiga applications, demos and games that have source code available.
