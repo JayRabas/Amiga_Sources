@@ -1,5 +1,5 @@
 JJ
-[cheetah](https://github.com/A4091/cheetah) |  DESCRIPTION | [A4091](https://github.com/A4091) | 
+
 [amiga-paula-8364-emulator](https://github.com/akustikrausch/amiga-paula-8364-emulator) |  DESCRIPTION | [akustikrausch](https://github.com/akustikrausch) | 
 [AmigaPCI-Software](https://github.com/AmigaPCI/AmigaPCI-Software) |  DESCRIPTION | [AmigaPCI](https://github.com/AmigaPCI) | 
 [kicksmash32](https://github.com/cdhooper/kicksmash32) |  DESCRIPTION | [cdhooper](https://github.com/cdhooper) | 
@@ -24,7 +24,6 @@ JJ
 [WASDPad](https://github.com/StingerHU/WASDPad) |  DESCRIPTION | [StingerHU](https://github.com/StingerHU) | 
 [OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  DESCRIPTION | [SukkoPera](https://github.com/SukkoPera) | 
 [C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  DESCRIPTION | [tebl](https://github.com/tebl) | 
-![Uploading image.png…]()
 
 
 # Hardware
