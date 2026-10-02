@@ -1,3 +1,32 @@
+JJ
+[cheetah](https://github.com/A4091/cheetah) |  DESCRIPTION | [A4091](https://github.com/A4091) | 
+[amiga-paula-8364-emulator](https://github.com/akustikrausch/amiga-paula-8364-emulator) |  DESCRIPTION | [akustikrausch](https://github.com/akustikrausch) | 
+[AmigaPCI-Software](https://github.com/AmigaPCI/AmigaPCI-Software) |  DESCRIPTION | [AmigaPCI](https://github.com/AmigaPCI) | 
+[kicksmash32](https://github.com/cdhooper/kicksmash32) |  DESCRIPTION | [cdhooper](https://github.com/cdhooper) | 
+[digjoy](https://github.com/jtsiomb/digjoy) |  DESCRIPTION | [jtsiomb](https://github.com/jtsiomb) | 
+[BeamBender-BigBox](https://github.com/kavanoz64/BeamBender-BigBox) |  DESCRIPTION | [kavanoz64](https://github.com/kavanoz64) | 
+[Amiga-CDTV-Brick-BLE](https://github.com/Korinel/Amiga-CDTV-Brick-BLE) |  DESCRIPTION | [Korinel](https://github.com/Korinel) | 
+[Amiga-CDTV-U62](https://github.com/Korinel/Amiga-CDTV-U62) |  DESCRIPTION | [Korinel](https://github.com/Korinel) | 
+[Amiga-CDTV-U75](https://github.com/Korinel/Amiga-CDTV-U75) |  DESCRIPTION | [Korinel](https://github.com/Korinel) | 
+[68030-tk2](https://gitlab.com/MHeinrichs/68030-tk2) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
+[68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
+[a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
+[Gotek-Touchscreen-interface](https://github.com/mesarim/Gotek-Touchscreen-interface) |  DESCRIPTION | [mesarim](https://github.com/mesarim) | 
+[ClockPort-FPC-Adapters?tab=readme-ov-file](https://github.com/mrehkopf/ClockPort-FPC-Adapters?tab=readme-ov-file) |  DESCRIPTION | [mrehkopf](https://github.com/mrehkopf) | 
+[ReClockator-500](https://github.com/mrehkopf/ReClockator-500) |  DESCRIPTION | [mrehkopf](https://github.com/mrehkopf) | 
+[amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
+[buffee-nano](https://github.com/nonarkitten/buffee-nano) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
+[unpistorm](https://github.com/nonarkitten/unpistorm) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
+[LibreKick](https://github.com/Ploos-AS/LibreKick) |  DESCRIPTION | [Ploos-AS](https://github.com/Ploos-AS) | 
+[BigMig-Emu68A9](https://github.com/raparici/BigMig-Emu68A9) |  DESCRIPTION | [raparici](https://github.com/raparici) | 
+[amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU) |  DESCRIPTION | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
+[amiga-hddlw](https://github.com/schlae/amiga-hddlw) |  DESCRIPTION | [schlae](https://github.com/schlae) | 
+[WASDPad](https://github.com/StingerHU/WASDPad) |  DESCRIPTION | [StingerHU](https://github.com/StingerHU) | 
+[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  DESCRIPTION | [SukkoPera](https://github.com/SukkoPera) | 
+[C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  DESCRIPTION | [tebl](https://github.com/tebl) | 
+![Uploading image.png…]()
+
+
 # Hardware
 
 ## Table of Contents
