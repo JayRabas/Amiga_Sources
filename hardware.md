@@ -8,29 +8,23 @@ JJ
 [Amiga-CDTV-Brick-BLE](https://github.com/Korinel/Amiga-CDTV-Brick-BLE) |  CDTV BLE Mouse Adapter | [Korinel](https://github.com/Korinel) | 
 
 
+[68030-tk2](https://gitlab.com/MHeinrichs/68030-tk2) |  68030 accelerator for Amiga 500, 1000 and 2000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
+[68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK) |  68020 accelerator for Amiga 500, 1000 and 2000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
+[a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk) |  68060 accelerator for Amiga 3000 & 4000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
 
+[Gotek-Touchscreen-interface](https://github.com/mesarim/Gotek-Touchscreen-interface) |  A touchscreen front-end for Gotek-style floppy emulators | [mesarim](https://github.com/mesarim) | 
 
-[68030-tk2](https://gitlab.com/MHeinrichs/68030-tk2) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
-[68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
-[a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk) |  DESCRIPTION | [MHeinrichs](https://gitlab.com/MHeinrichs) | 
+[ReClockator-500](https://github.com/mrehkopf/ReClockator-500) |  Adapter that changes the orientation of the 68000 and add FPC cponnector for clock ports | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
+[Amiga Clockport FPC Adapters](https://github.com/mrehkopf/ClockPort-FPC-Adapters) |  1 or 4 clockport for the ReCloaktor-500 | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
 
-[Gotek-Touchscreen-interface](https://github.com/mesarim/Gotek-Touchscreen-interface) |  DESCRIPTION | [mesarim](https://github.com/mesarim) | 
+[Buffee Nano](https://github.com/nonarkitten/buffee-nano) |  Low end FPGA Amiga accelerator | [Renee Cousins](https://github.com/nonarkitten) | 
 
-[ReClockator-500](https://github.com/mrehkopf/ReClockator-500) |  DESCRIPTION | [mrehkopf](https://github.com/mrehkopf) | 
-[ClockPort-FPC-Adapters?tab=readme-ov-file](https://github.com/mrehkopf/ClockPort-FPC-Adapters?tab=readme-ov-file) |  DESCRIPTION | [mrehkopf](https://github.com/mrehkopf) | 
+[amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU) |  A modern Amiga PSU | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
+[Amiga-HDDLW](https://github.com/schlae/amiga-hddlw) |  Customization of PC Floppy Drive for Amiga | [Tube Time ](https://github.com/schlae) | 
+[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
 
-[amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
-[buffee-nano](https://github.com/nonarkitten/buffee-nano) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
-[unpistorm](https://github.com/nonarkitten/unpistorm) |  DESCRIPTION | [nonarkitten](https://github.com/nonarkitten) | 
-
-[BigMig-Emu68A9](https://github.com/raparici/BigMig-Emu68A9) |  DESCRIPTION | [raparici](https://github.com/raparici) | 
-[amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU) |  DESCRIPTION | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
-[amiga-hddlw](https://github.com/schlae/amiga-hddlw) |  DESCRIPTION | [schlae](https://github.com/schlae) | 
-[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  DESCRIPTION | [SukkoPera](https://github.com/SukkoPera) | 
-
-[C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  DESCRIPTION | [tebl](https://github.com/tebl) | 
-[WASDPad](https://github.com/StingerHU/WASDPad) |  DESCRIPTION | [StingerHU](https://github.com/StingerHU) | 
-[digjoy](https://github.com/jtsiomb/digjoy) |  DESCRIPTION | [jtsiomb](https://github.com/jtsiomb) | 
+[C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  Configurable Joystick for Retro computers | [tebl](https://github.com/tebl) | 
+[WASDPad](https://github.com/StingerHU/WASDPad) |  Hardware WASD-style game controller | [StingerHU](https://github.com/StingerHU) | 
 
 # Hardware
 
@@ -109,7 +103,7 @@ Recreated versions of custom chips in the Amiga chipset or related periperals.
 | [Bluster](https://github.com/LIV2/Bluster)                                | A2000 Buster replacement                                             | [LIV2](https://github.com/LIV2)                     |
 | [Deniser](https://github.com/endofexclusive/deniser)                      | Deniser is a drop-in replacement for the Amiga computer Denise chip. | [endofexclusive](https://github.com/endofexclusive) |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus)                | Adapter to fit the older 1MB Agnus to the A500+                      | [LIV2](https://github.com/LIV2)                     |
-| [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid     | [SukkoPera](https://github.com/SukkoPera)           |
+| [OpenAmigaVideoHybrid](https://github.com//OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid     | [](https://github.com/)           |
 | [ReAgnus](https://github.com/jbilander/ReAgnus)                           | ReAgnus is a replacement for the Amiga Agnus chip.                   | [Jörgen Bilander](https://github.com/jbilander)     |
 | [ReCIA](https://github.com/jbilander/ReCIA)                               | A drop in replacement CIA for old Amiga Computers                    | [Jörgen Bilander](https://github.com/jbilander)     |
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC)                        | ReSDMAC is a replacement for the Amiga SDMAC chip.                   | [mbtaylor1982](https://github.com/mbtaylor1982)     |
@@ -133,8 +127,8 @@ Memory expansions and other accelerator boards.
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215)                                  | Zorro II adapter for A500 with passthrough                                              | [matze](https://gitlab.com/MHeinrichs)            |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB)                                                  | A570 2MB RAM board clone                                                                | dalek                                             |
 | [A600_ACCEL_RAM](https://github.com/PR77/A600_ACCEL_RAM)                                                  | Amiga 600 Accelerator And RAM Expansion                                                 | [PR77](https://github.com/PR77)                   |
-| [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion)                          | A600 trapdoor RAM                                                                       | [SukkoPera](https://github.com/SukkoPera)         |
-| [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion)                      | A600 4/8 MB fast RAM                                                                    | [SukkoPera](https://github.com/SukkoPera)         |
+| [A600 chip RAM expansion](https://github.com//OpenAmiga600RamExpansion)                          | A600 trapdoor RAM                                                                       | [](https://github.com/)         |
+| [A600 fast RAM expansion](https://github.com//OpenAmiga600FastRamExpansion)                      | A600 4/8 MB fast RAM                                                                    | [](https://github.com/)         |
 | [Amiga 3000 2 slot Zorro Daughterboard](https://github.com/olonguet/Amiga3000-2-slot-zorro-daughterboard) | Compact Zorro daughter board for A3000/A4000                                            | [BG Ollie](https://github.com/olonguet)           |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus)                                                | Adapter to fit the older 1MB Agnus to the A500+                                         | [LIV2](https://github.com/LIV2)                   |
 | [Ginger](https://github.com/mrehkopf/Ginger)                                                              | Ginger is an integrated Socket Shift, 2x CPU switch, and 4x Clock Port & RTC expansion. | [Maximilian Rehkopf](https://github.com/mrehkopf) |
