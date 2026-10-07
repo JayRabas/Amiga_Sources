@@ -1,4 +1,3 @@
-JJ
 
 [KickSmash32](https://github.com/cdhooper/kicksmash32) |  Kickstart ROM replacement module for the Amiga 3000 and Amiga 4000 | [Chris Hooper](https://github.com/cdhooper) | 
 [LibreKick](https://github.com/Ploos-AS/LibreKick) |  Kickstart-compatible ROM project for 68k Amiga | [Ploos AS](https://github.com/Ploos-AS) | 
@@ -12,19 +11,25 @@ JJ
 [68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK) |  68020 accelerator for Amiga 500, 1000 and 2000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
 [a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk) |  68060 accelerator for Amiga 3000 & 4000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
 
-[Gotek-Touchscreen-interface](https://github.com/mesarim/Gotek-Touchscreen-interface) |  A touchscreen front-end for Gotek-style floppy emulators | [mesarim](https://github.com/mesarim) | 
-
 [ReClockator-500](https://github.com/mrehkopf/ReClockator-500) |  Adapter that changes the orientation of the 68000 and add FPC cponnector for clock ports | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
 [Amiga Clockport FPC Adapters](https://github.com/mrehkopf/ClockPort-FPC-Adapters) |  1 or 4 clockport for the ReCloaktor-500 | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
 
 [Buffee Nano](https://github.com/nonarkitten/buffee-nano) |  Low end FPGA Amiga accelerator | [Renee Cousins](https://github.com/nonarkitten) | 
 
 [amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU) |  A modern Amiga PSU | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
-[Amiga-HDDLW](https://github.com/schlae/amiga-hddlw) |  Customization of PC Floppy Drive for Amiga | [Tube Time ](https://github.com/schlae) | 
+
 [OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
 
 [C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  Configurable Joystick for Retro computers | [tebl](https://github.com/tebl) | 
 [WASDPad](https://github.com/StingerHU/WASDPad) |  Hardware WASD-style game controller | [StingerHU](https://github.com/StingerHU) | 
+
+JJ
+
+[KickSmash32](https://github.com/cdhooper/kicksmash32) |  Kickstart ROM replacement module for the Amiga 3000 and Amiga 4000 | [Chris Hooper](https://github.com/cdhooper) | 
+[LibreKick](https://github.com/Ploos-AS/LibreKick) |  Kickstart-compatible ROM project for 68k Amiga | [Ploos AS](https://github.com/Ploos-AS) | 
+
+[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
+
 
 # Hardware
 
@@ -57,10 +62,14 @@ Accelerator and turbo boards.
 
 | Project                                                          | Description                                                                                   | Author                                               |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [68030-tk2](https://gitlab.com/MHeinrichs/68030-tk2)             | 68030 accelerator for Amiga 500, 1000 and 2000                                                | [Matthias Heinrichs](https://gitlab.com/MHeinrichs)  | 
 | [68040-to-68060](https://github.com/reinauer/68040-to-68060)     | 68040 to 68060 adapter                                                                        | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK)           | 68020 accelerator for Amiga 500, 1000 and 2000                                                | [Matthias Heinrichs](https://gitlab.com/MHeinrichs)  | 
+| [a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk)               | 68060 accelerator for Amiga 3000 & 4000                                                       | [Matthias Heinrichs](https://gitlab.com/MHeinrichs)  |
 | [A314](https://github.com/niklasekstrom/a314)                    | A500 expansion board with SBC bus                                                             | [Niklas Ekström](https://github.com/niklasekstrom)   |
 | [A3640](http://wordpress.hertell.nu/?page_id=514)                | Reverse engineered C= A3640 accelerator                                                       | John 'Chucky' Hertell                                |
-| [amigasoftfpu](https://github.com/fitzee/amigasoftfpu)           | Amiga floating point co-processor built with ESP32-S3                                         | [fitzee](https://github.com/fitzee)                                        |
+| [amigasoftfpu](https://github.com/fitzee/amigasoftfpu)           | Amiga floating point co-processor built with ESP32-S3                                         | [fitzee](https://github.com/fitzee)                  |
+[ [Buffee Nano](https://github.com/nonarkitten/buffee-nano)        | Low end FPGA Amiga accelerator                                                                | [Renee Cousins](https://github.com/nonarkitten)      | 
 | [Greta](https://github.com/endofexclusive/greta)                 | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller.        | Martin Åberg                                         |
 | [N2630](https://github.com/jasonsbeer/Amiga-N2630)               | A re-imagining of the Amiga A2630 processor card                                              | [Jason Neus](https://github.com/jasonsbeer)          |
 | [OLM030](https://github.com/OlegMishin/OLM030)                   | Amiga 500 accelerator based on 68030FE33                                                      | [Oleg Mishin](https://github.com/OlegMishin)         |
@@ -207,6 +216,8 @@ Clones or improved versions of motherboards.
 | [Atari-Quadrature-USB-Mouse-Adapter](https://github.com/bluescrn/AmiBLEHID)             | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
 | [Atari ST/STe (also Amiga) USB Mouse Adapter](https://github.com/tomekszafranski/AtariST-Amiga-USBmouse) | USB to DB9                                                               | [tomekszafranski](https://github.com/tomekszafranski)           |
+| [C64-JoyKEY](https://github.com/tebl/C64-JoyKEY)                                        |  Configurable Joystick for Retro computers                                                | [tebl](https://github.com/tebl)                                 | 
+| [Amiga-CDTV-Brick-BLE](https://github.com/Korinel/Amiga-CDTV-Brick-BLE)                 |  CDTV BLE Mouse Adapter                                                                   | [Korinel](https://github.com/Korinel)                           | 
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI)                              | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter                  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision)                               | USB interface to use DB9/Atari-style joysticks on modern computers.                       | Stefan Blixth                                                   |
 | [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter)   | Connect up to four joysticks to your Amiga!                                               | [SukkoPera](https://github.com/SukkoPera)                       |
@@ -214,6 +225,7 @@ Clones or improved versions of motherboards.
 | [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter)         | Adapter that allows using a PlayStation gamepad on Amiga and CD32                         | [SukkoPera](https://github.com/SukkoPera)                       |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2)                                | USB mouse adaptor for retro computers (Amiga and others)                                  | Simon Inns                                                      |
 | [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2)                      | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc.                      | [Ricardo Quesada](https://github.com/ricardoquesada)            |
+| [WASDPad](https://github.com/StingerHU/WASDPad)                                         |  Hardware WASD-style game controller                                                      | [StingerHU](https://github.com/StingerHU)                       | 
 | [Yami](https://codeberg.org/shred/yami)                                                 | Serial mouse to Amiga & Atari ST Adapter                                                  | [Richard Körber](https://codeberg.org/shred)                    |
 | [Yaumataca](https://github.com/Slamy/Yaumataca)                                         | USB mouse and joystick to Amiga, Atari ST & C64 Adapter                                   | [Slamy](https://github.com/Slamy/)                              |
 
@@ -261,6 +273,7 @@ PSU related.
 | [A500spwr](https://github.com/MastaTabs/a500spwr)                                         | Single 12V Power supply module for Amiga 500 computers  | [Tobias Seiler](https://github.com/MastaTabs)     |
 | [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power)                     | ATX adapter for A500 tower builds                       | [wiretap-retro](https://github.com/wiretap-retro) |
 | [Amiga_DB23_to_USBC](https://github.com/jbilander/Amiga_DB23_to_USB_C_power_only_adapter) | +5V from external D-sub DB23 floppy drive port to USB-C | [jbilander](https://github.com/jbilander)         |
+| [amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU)                                | A modern Amiga PSU                                      | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors)                                  | ATX power supply adaptors for Amigas                    | Ian Steadman                                      |
 | [ATnoX](https://github.com/hkzlab/ATnoX)                                                  | ATX to AT/XT/Amiga power supply adapter                 | [hkzlab](https://github.com/hkzlab)               |
 
@@ -305,6 +318,7 @@ Video adaptes, flickerfixers, etc.
 | [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE)   | Double buffered, impedance matched, no vertical lines VGA adapter w/ NO-VERTICAL_BARS | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI                                                 | [Bloodmosher](https://github.com/Bloodmosher)                   |
 | [BeamBender](https://github.com/jbilander/BeamBender)                                | An open source flicker fixer PCB for Amiga 1200 and 500                               | [jbilander](https://github.com/jbilander)                       |
+| [BeamBender BigBox](https://github.com/kavanoz64/BeamBender-BigBox)                  | A digital scandoubler and HDMI output card for the Amiga 2000,3000 & 4000             | [kavanoz64](https://github.com/kavanoz64)                       | 
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer)                        | An open source flicker fixer for Amiga 500/2000.                                      | [Niklas Ekström](https://github.com/niklasekstrom)              |
 | [Multifix-AGA](https://gitlab.com/MHeinrichs/multifix-aga)                           | This is a ECS and AGA-combo scandoubler and flicker fixer for big box Amigas.         | [Matthias Heinrichs ](https://gitlab.com/MHeinrichs)            |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video)                      | Amiga HDMI Scandoubler based on Raspberry Pi Zero                                     | [c0pperdragon](https://github.com/c0pperdragon)                 |
