@@ -1,36 +1,3 @@
-
-[KickSmash32](https://github.com/cdhooper/kicksmash32) |  Kickstart ROM replacement module for the Amiga 3000 and Amiga 4000 | [Chris Hooper](https://github.com/cdhooper) | 
-[LibreKick](https://github.com/Ploos-AS/LibreKick) |  Kickstart-compatible ROM project for 68k Amiga | [Ploos AS](https://github.com/Ploos-AS) | 
-
-[BeamBender BigBox](https://github.com/kavanoz64/BeamBender-BigBox) |  A digital scandoubler and HDMI output card for the Amiga 2000,3000 & 4000 | [kavanoz64](https://github.com/kavanoz64) | 
-
-[Amiga-CDTV-Brick-BLE](https://github.com/Korinel/Amiga-CDTV-Brick-BLE) |  CDTV BLE Mouse Adapter | [Korinel](https://github.com/Korinel) | 
-
-
-[68030-tk2](https://gitlab.com/MHeinrichs/68030-tk2) |  68030 accelerator for Amiga 500, 1000 and 2000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
-[68EC020-TK](https://gitlab.com/MHeinrichs/68EC020-TK) |  68020 accelerator for Amiga 500, 1000 and 2000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
-[a4000-tk](https://gitlab.com/MHeinrichs/a4000-tk) |  68060 accelerator for Amiga 3000 & 4000 | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) | 
-
-[ReClockator-500](https://github.com/mrehkopf/ReClockator-500) |  Adapter that changes the orientation of the 68000 and add FPC cponnector for clock ports | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
-[Amiga Clockport FPC Adapters](https://github.com/mrehkopf/ClockPort-FPC-Adapters) |  1 or 4 clockport for the ReCloaktor-500 | [Maximilian Rehkopf](https://github.com/mrehkopf) | 
-
-[Buffee Nano](https://github.com/nonarkitten/buffee-nano) |  Low end FPGA Amiga accelerator | [Renee Cousins](https://github.com/nonarkitten) | 
-
-[amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU) |  A modern Amiga PSU | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) | 
-
-[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
-
-[C64-JoyKEY](https://github.com/tebl/C64-JoyKEY) |  Configurable Joystick for Retro computers | [tebl](https://github.com/tebl) | 
-[WASDPad](https://github.com/StingerHU/WASDPad) |  Hardware WASD-style game controller | [StingerHU](https://github.com/StingerHU) | 
-
-JJ
-
-[KickSmash32](https://github.com/cdhooper/kicksmash32) |  Kickstart ROM replacement module for the Amiga 3000 and Amiga 4000 | [Chris Hooper](https://github.com/cdhooper) | 
-[LibreKick](https://github.com/Ploos-AS/LibreKick) |  Kickstart-compatible ROM project for 68k Amiga | [Ploos AS](https://github.com/Ploos-AS) | 
-
-[OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
-
-
 # Hardware
 
 ## Table of Contents
@@ -246,6 +213,7 @@ Clones or improved versions of motherboards.
 | [DiagROMV2](https://github.com/ChuckyGang/DiagROMV2)                        | The Amiga Diagnostic Rom V2                                                       | [John Hertell ](https://github.com/ChuckyGang)                  |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html)                           | FlashROM drop-in replacement for Amiga Kickstart ROM.                             | Stefan Blixth                                                   |
 | [KickSmash32](https://github.com/cdhooper/kicksmash32)                      | Kickstart ROM replacement module for the Amiga 3000/4000                          | [cdhooper](https://github.com/cdhooper)                         |
+| [LibreKick](https://github.com/Ploos-AS/LibreKick)                          | Kickstart-compatible ROM project for 68k Amiga                                    | [Ploos AS](https://github.com/Ploos-AS)                         | 
 | [OpenKickstartSwitcher](https://github.com/SukkoPera/OpenKickstartSwitcher) | OpenKickstartSwitcher is an Open Hardware Kickstart Switcher for Amiga Computers. | [SukkoPera](https://github.com/SukkoPera)                       |
 | [RPROM](https://github.com/niklasekstrom/RPROM)                             | A ROM emulator for 16 bit Amiga computers (A500, A600, A2000)                     | [Niklas Ekström](https://github.com/niklasekstrom)              |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO)          | Fancy Kickstart Switcher for A500-A600-A1200-A4000                                | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
@@ -262,6 +230,7 @@ Hardware that doesn't fit in the other categories.
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) | SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [ar3](https://github.com/na103/ar3)                                           | Action Replay III replica                                  | [Nicola Avanzi](https://github.com/na103)          |
 | [DeMoN cartridge](https://github.com/gerbilbyte/DeMoN2)                       | Improved AR3 cartridge                                     | REbEL et. al                                       |
+| [OpenAmiga2000CoproAdapter](https://github.com/SukkoPera/OpenAmiga2000CoproAdapter) |  Adapter that allows installation of the main A2000 processor in the co-processor slot. | [SukkoPera](https://github.com/SukkoPera) | 
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter)      | Int7 NMI generator for A500/1000/2000                      | [Stefan Reinauer](https://github.com/reinauer)     |
 
 ## Power supplies
